@@ -7,7 +7,7 @@ list of members
 | Becker | Barry | barrybecker4 | Git Kraken |
 | Chen | Alan | AVerteC | The death of a dream is the day that you stop believing in the work it takes to get there. |
 | Cheng | Kyle | kcheng0222 | Git outta here |
-| Fong | Sean | seancnfg | It's raining too much this week... |
+| Fong | Sean | seancnfg | I'm in Honors Precalc? |
 | Gupta | Mili | PJATOHOO | e^(iπ) + 1 |
 | Nathan | Jay | jn8302 | Why is it so cold in here? | 
 | Vij | Yash | yv3060 | I love coding :) |
