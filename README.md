@@ -15,3 +15,4 @@ list of members
 | Hui | Sara | sariouslyn | Subscribe to Pewdiepie |
 | Liu | Daniel |Liu-Zhi-Yu | 郑凯乐 is my lord and savior |
 | Yonas | Caleb | Zaptrix | I dont think I git it... |
+| Stevenson | Lucas | LucasStevenson | ayy |
