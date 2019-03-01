@@ -12,6 +12,7 @@ list of members
 | Gupta | Mili | PJATOHOO | e^(iπ) + 1 |
 | Nathan | Jay | jn8302 | Why is it so cold in here? | 
 | Vij | Yash | yv3060 | I love coding :) |
+| Kant | Romir | RomoElRomo | He alone, who owns the youth, gains the future. |
 | Hui | Sara | sariouslyn | Subscribe to Pewdiepie |
 | Liu | Daniel |Liu-Zhi-Yu | 郑凯乐 is my lord and savior |
 | Yonas | Caleb | Zaptrix | I dont think I git it... |
