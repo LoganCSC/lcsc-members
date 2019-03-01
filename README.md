@@ -12,6 +12,6 @@ list of members
 | Gupta | Mili | PJATOHOO | e^(iπ) + 1 |
 | Nathan | Jay | jn8302 | Why is it so cold in here? | 
 | Vij | Yash | yv3060 | I love coding :) |
-| Hui | Sara | sariouslyn | Subscribe to Pewdiepie |
 | Liu | Daniel |Liu-Zhi-Yu | 郑凯乐 is my lord and savior |
+| Stevenson | Lucas | LucasStevenson | ayy |
 | Yonas | Caleb | Zaptrix | I dont think I git it... |
